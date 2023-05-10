@@ -1,0 +1,41 @@
+/* .container {
+    height: 400px;
+    background-color: seagreen;
+    display: flex;
+} */
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.octocat1 {
+    background-color: lightseagreen;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    margin: 50px;
+}
+
+.octocat2 {
+    background-color: lightcyan;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+    margin: 50px;
+}
+
+.octocat3 {
+    background-color: lightgreen;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+    margin: 50px;
+}
